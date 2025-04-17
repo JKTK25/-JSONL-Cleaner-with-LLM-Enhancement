@@ -1,7 +1,7 @@
 
 # 🧹 JSONL Cleaner with LLM Enhancement
 
-This Python script is a powerful tool designed to **clean**, **clarify**, and **enhance educational text data** (especially for Kenya's CBC Curriculum) stored in `.jsonl` (JSON Lines) format using an open-source **Language Model (LLM)** such as Google's `Flan-T5`.
+This Python script is a powerful tool designed to **clean**, **clarify**, and **enhance educational text data** stored in `.jsonl` (JSON Lines) format using an open-source **Language Model (LLM)** such as Google's `Flan-T5`.
 
 ---
 
