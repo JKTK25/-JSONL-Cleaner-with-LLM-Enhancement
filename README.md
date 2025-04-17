@@ -100,7 +100,7 @@ The LLM is prompted like this:
 
 > Fix and rephrase the following educational statement: "To achieve the national educational goals the government through KICD developed..."
 
-This ensures the text is **polished** and **aligned with CBC educational quality**.
+This ensures the text is **polished** and **aligned with daset quality quality**.
 
 ---
 
@@ -144,6 +144,7 @@ Have improvements or want to customize for another curriculum? Feel free to fork
 
 Developed with 💙 by [Kariuki James](mailto:jamexkarix54@gmail.com)  
 📞 Phone: 0718845849
+          **Kenya**
 
 ---
 
